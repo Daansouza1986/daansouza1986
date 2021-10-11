@@ -1,6 +1,6 @@
 ### Olá, eu sou a Dan Souza!👋
 
-
+![Daan GitHub stats](https://github-readme-stats.vercel.app/api?username=daansouza&show_icons=true&theme=radical)
 
 
 
